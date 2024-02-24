@@ -10,8 +10,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PageForm (@CodeWithKliton)",
-  description: "Check my youtube channel for more content",
+  title: "Form Builder @amrit",
+  description: "A simple and scalable form builder for your next project.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
